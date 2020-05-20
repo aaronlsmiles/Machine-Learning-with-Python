@@ -1,2 +1,2 @@
 # Machine-Learning-with-Python
-Jupyter Notebooks exploring Machine Learning techniques with Python for IBM's Data Science Professional Certificate
+Jupyter Notebooks exploring Machine Learning techniques -- regression, classification (K-nearest neighbour (KNN), Decision Trees, Logistic regression vs Linear regression, Support Vector Machine), clustering (k-means, Hierarchical Clustering, DBSCAN), sci-kit learn and SciPy -- and where it applies to the real world, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and see how it affects society in ways you may not have guessed!
